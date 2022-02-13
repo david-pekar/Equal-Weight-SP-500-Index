@@ -1,5 +1,5 @@
 # Equal-Weight-SP-500-Index
-Project based on an algorithmic trading course on Youtube
+Project based on an algorithmic trading course on Youtube.
 Course Link: https://www.youtube.com/watch?v=xfzGZB4HhEE
 
 Gained experience working with API's and learned how to conduct Batch API Calls.

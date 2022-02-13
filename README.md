@@ -1,0 +1,1 @@
+# Equal-Weight-SP-500-Index
